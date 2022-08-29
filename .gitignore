@@ -1,0 +1,4 @@
+geocoded.json
+data/*
+env/*
+__pycache__
